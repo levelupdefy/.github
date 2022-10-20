@@ -43,6 +43,7 @@
 <p align="center">
 <a href="https://numpy.org"><img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&logo=numpy&logoColor=fff" alt=""></a>
 <a href="https://scipy.org"><img src="https://img.shields.io/badge/scipy-000000?style=for-the-badge&logo=scipy&logoColor=fff" alt=""></a>
+<a href="https://qiskit.org"><img src="https://img.shields.io/badge/qiskit-000000?style=for-the-badge&logo=qiskit&logoColor=fff" alt=""></a>
 <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/matplotlib-000000?style=for-the-badge&logo=matplotlib-org&logoColor=fff" alt=""></a>
 <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=fff" alt=""></a>
 <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=fff" alt=""></a>
